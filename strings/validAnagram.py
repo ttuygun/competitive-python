@@ -2,6 +2,7 @@
 Link: https://leetcode.com/problems/valid-anagram
 Category: Strings
 Tags:
+Site: Leetcode
 Solved by: Tarık Taha Uygun
 """
 
@@ -27,7 +28,7 @@ class Solution:
             else:
                 sozluk[i] -= 1
 
-                # Accepted anagram condition
+        # Accepted anagram condition
         for i in sozluk.values():
             if i != 0:
                 return False

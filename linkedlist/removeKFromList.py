@@ -2,6 +2,7 @@
 Link: https://app.codesignal.com/interview-practice/task/gX7NXPBrYThXZuanm/description
 Category: Linkedlist
 Tags:
+Site: Codesignal
 Solved by: Tarık Taha Uygun
 """
 

@@ -2,6 +2,7 @@
 Link: https://leetcode.com/problems/valid-palindrome
 Category: Strings
 Tags:
+Site: Leetcode
 Solved by: Tarık Taha Uygun
 """
 
